@@ -1,0 +1,7 @@
+conda create -n geo-env python=3.11 numpy pandas matplotlib
+conda activate geo-env
+pip install 'geopandas[all]' rasterio netCDF4 cmcrameri
+
+# If using spyder IDE
+pip install spyder-kernels==2.4.*
+
