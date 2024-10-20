@@ -11,5 +11,5 @@ The goal of this project is to provide monthly raster datasets of the refractive
 ### _Authors_
 #### James T. Deitrich
 Applied Coastal Research and Engineering Section, Washingotn Department of Ecology
-#### Christoper Parrish
+#### Christopher Parrish
 Civil and Construction Engineering, Oregon State University
