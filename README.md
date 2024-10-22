@@ -4,7 +4,7 @@ The goal of this project is to provide monthly raster datasets of the refractive
 > ## The methodology for these data are currently in the publication pipeline - please check back for the paper (or click the Watch and Star button above for updates)
 
 ## Data Citation
-Dietrich, J.T. and C. Parrish. 2024. Github: global_refractive_index_532: Version 1.0. Zenodo, DOI: [10.5281/zenodo.13968331](https://doi.org/10.5281/zenodo.13968331)
+> ### Dietrich, J.T. and C. Parrish. 2024. Github: global_refractive_index_532: Version 1.0. Zenodo, DOI: [10.5281/zenodo.13968331](https://doi.org/10.5281/zenodo.13968331)
 
 ### Folders
 **Code**: Contains the Python code used to create the raster layers
