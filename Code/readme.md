@@ -6,9 +6,8 @@ Converts Copernicus Marine Environment Monitoring Service (CMEMS) ARMOR3D L4 - M
 to annual GeoTIFF raster stacks (one band per month).
 
 ### Data Download
-1. Use the Monthly data access forms:
-   - [ARMOR3D NRT data Form](https://data.marine.copernicus.eu/product/MULTIOBS_GLO_PHY_TSUV_3D_MYNRT_015_012/download?dataset=dataset-armor-3d-nrt-monthly_202012)
-   - [ARMOR3D REP data Form](https://data.marine.copernicus.eu/product/MULTIOBS_GLO_PHY_TSUV_3D_MYNRT_015_012/download?dataset=dataset-armor-3d-rep-monthly_202012)
+1. Use the Monthly data access forms (monthly or weekly datasets:
+   - [ARMOR3D data Form](https://data.marine.copernicus.eu/product/MULTIOBS_GLO_PHY_TSUV_3D_MYNRT_015_012/download?dataset=dataset-armor-3d-nrt-monthly_202012)
 2. Variables: Sea water salinity, Sea water temperature
 3. Area of Interest: Global or specific area
 4. Date Range: Start and End Dates
