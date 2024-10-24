@@ -12,7 +12,7 @@ The goal of this project is to provide monthly raster datasets of the refractive
 ### Folders
 **Code**: Contains the Python code used to create the raster layers
 
-**Data**: Contains the global raster data layers, one raster (geotiff) stack per year (currently 2016-2024)
+**Data**: Contains the global raster data layers, GeoTiff format in both weekly and monthly temporal frequency.
 
 ### _Authors_
 #### James T. Deitrich
