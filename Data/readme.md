@@ -25,9 +25,8 @@ The raster data have a resolution of 0.25° and are projected in Lat/Long (WGS84
   - MULTIOBS\_GLO\_PHY\_TSUV\_3D\_MYNRT\_015\_012 
 - nw532 = refractive index of water at 532 nm
 - date = 
-  - Monthly - year covered by the file
-  - Weekly - Sart and end dates of the file
-- monthly = band temporal frequency (1 per month)
+  - Monthly - year covered by the file (1 band per month)
+  - Weekly - Sart and end dates of the file (1 band total)
 - processing level = from ARMOR3D L4: REP
   - NRT: Near-Real Time, ~1 month lag before present
   - REP: Reprocessed, 12 to 24 months lag before present - "The REP datasets benefit from the highest quality ocean observations input."
