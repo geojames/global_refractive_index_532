@@ -5,7 +5,7 @@ The goal of this project is to provide monthly raster datasets of the refractive
 
 ## Data Citation
 [![DOI](https://zenodo.org/badge/872811345.svg)](https://doi.org/10.5281/zenodo.13968330)
-> ### Dietrich, J.T. and C. Parrish. 2024. Github: global_refractive_index_532: Version 1.0. Zenodo, DOI: [10.5281/zenodo.13968331](https://doi.org/10.5281/zenodo.13968331)
+> #### Dietrich, J.T. and C. Parrish. 2024. Github: global_refractive_index_532: Version 1.0. Zenodo, DOI: [10.5281/zenodo.13968331](https://doi.org/10.5281/zenodo.13968331)
 
 ## Monthly Data Animation
 [https://youtu.be/cUqlqw-NWk0](https://youtu.be/cUqlqw-NWk0)
