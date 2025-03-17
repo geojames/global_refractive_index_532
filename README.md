@@ -10,6 +10,9 @@ The goal of this project is to provide monthly raster datasets of the refractive
 ## Monthly Data Animation
 [https://youtu.be/cUqlqw-NWk0](https://youtu.be/cUqlqw-NWk0)
 
+#### Changelog:
+2025 Mar 16 - added dynamic date and AOI processing via Copernicus Marine python API. 
+
 ### Folders
 **Code**: Contains the Python code used to create the raster layers
 
