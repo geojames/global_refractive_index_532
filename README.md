@@ -4,8 +4,7 @@ The goal of this project is to provide monthly raster datasets of the refractive
 > ## The methodology for these data are currently in the publication pipeline - (click the Watch and Star button above for updates)
 > Preprint Available Online:
 > 
-> Dietrich, J. T., & Parrish, C. E. (2024). Development and Analysis of a Global Refractive Index of Water Data Layer for Spaceborne and Airborne Bathymetric Lidar. ESS Open Archive (Preprint). https://doi.org/10.22541/essoar.173272499.92810883/v1
-
+> Dietrich, J. T., & Parrish, C. E. (2025). Development and Analysis of a Global Refractive Index of Water Data Layer for Spaceborne and Airborne Bathymetric Lidar. Earth and Space Science, 12(3), e2024EA004106. https://doi.org/10.1029/2024EA004106
 
 ## Data Citation
 [![DOI](https://zenodo.org/badge/872811345.svg)](https://doi.org/10.5281/zenodo.13968330)
