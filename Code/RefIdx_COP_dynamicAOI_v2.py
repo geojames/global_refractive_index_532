@@ -5,13 +5,13 @@ __author__ = 'James T. Dietrich'
 __contact__ = 'geojamesdietrich@gmail.com'
 __copyright__ = '(c) James Dietrich 2025'
 __license__ = 'MIT'
-__date__ = 'JAN 2025'
+__date__ = '2025 MAR 16'
 __version__ = '0.0.1'
 __status__ = "inital release"
-__url__ = "https://github.com/..."
+__url__ = "https://github.com/geojames/global_refractive_index_532"
 
 """
-Name:           RefIdx_COP_dynamicAOI_v1.py
+Name:           RefIdx_COP_dynamicAOI_v2.py
 Compatibility:  Python 3.12
 Description:    Converts Copernicus Marine Environment Monitoring Service (CMEMS) 
                 ARMOR3D L4 - Multi Observation Global Ocean 3D Salinity and

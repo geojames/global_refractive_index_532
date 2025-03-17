@@ -5,15 +5,15 @@ __author__ = 'James T. Dietrich'
 __contact__ = 'geojamesdietrich@gmail.com'
 __copyright__ = '(c) James Dietrich 2025'
 __license__ = 'MIT'
-__date__ = 'JAN 2025'
+__date__ = '2025 MAR 16'
 __version__ = '0.0.1'
 __status__ = "inital release"
-__url__ = "https://github.com/..."
+__url__ = "https://github.com/geojames/global_refractive_index_532"
 
 """
-Name:           xxx.py
+Name:           cop_dynamic_V2_func_test.py
 Compatibility:  Python 3.12
-Description:    
+Description:    function calling example for dynamic date/AOI refractive index processing
 Requires:       
 
 Dev ToDo:       
