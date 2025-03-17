@@ -1,7 +1,7 @@
 # Welcome to the Global Refractive Index of Water Project Page
 The goal of this project is to provide monthly raster datasets of the refractive index of water at 532 nanometers for use in correcting airborne and spaceborne bathymetric lidar datasets.
 
-> ## The methodology for these data are currently in the publication pipeline - (click the Watch and Star button above for updates)
+> ## The methodology for these data are published - (click the Watch and Star button above for updates)
 > Preprint Available Online:
 > 
 > Dietrich, J. T., & Parrish, C. E. (2025). Development and Analysis of a Global Refractive Index of Water Data Layer for Spaceborne and Airborne Bathymetric Lidar. Earth and Space Science, 12(3), e2024EA004106. https://doi.org/10.1029/2024EA004106
