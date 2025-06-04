@@ -3,6 +3,20 @@
 Converts Copernicus Marine Environment Monitoring Service (CMEMS) ARMOR3D L4 - Multi Observation Global Ocean 3D Salinity and Temperature netCDF files
 to GeoTIFF rasters.
 
+> #### The methodology for these data are published - (click the Watch and Star button above for updates)
+> **Dietrich, J. T., & Parrish, C. E. (2025). Development and Analysis of a Global Refractive Index of Water Data Layer for Spaceborne and Airborne Bathymetric Lidar. Earth and Space Science, 12(3), e2024EA004106. https://doi.org/10.1029/2024EA004106**
+#### Data Citation
+[![DOI](https://zenodo.org/badge/872811345.svg)](https://doi.org/10.5281/zenodo.13968330)
+> **Dietrich, J.T. and C. Parrish. 2024. Github: global_refractive_index_532: Version 1.1. Zenodo, DOI: [10.5281/zenodo.13968330](https://doi.org/10.5281/zenodo.13968330)**
+
+### _Authors_
+
+> #### James T. Deitrich
+> Applied Coastal Research and Engineering Section, Washington Department of Ecology
+> #### Christopher Parrish
+> Civil and Construction Engineering, Oregon State University
+
+
 #### Changelog:
 2025 Mar 16 - added dynamic date and AOI processing via Copernicus Marine python API. 
 2025 Jun 3 - cleaned up, added notebook version of dynamic AOI code
