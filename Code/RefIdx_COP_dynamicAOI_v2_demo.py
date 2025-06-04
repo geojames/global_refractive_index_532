@@ -29,19 +29,24 @@ Licence:        MIT
 # IMPORTS
 from RefIdx_COP_dynamicAOI_v2 import cop_ref_idx
 
-
-#wl = 532.0
-wavelength = [470,532,630]
+# project details
 project_name = 'carrib'
-out_path = 'E:/RefractiveIndex_copy/dynam_ri'
+out_path = 'D:/python/ri_test'
+
+# Date range: "yyyy-mm-dd"
+start_date = "2025-1-1"
+end_date = "2025-2-1"
 
 # Area of interest
 #   [min longitude, max longitude, min latitude, max latitude] (negaitves for west and south)
 aoi = [-99,-58, 7,33]
 
-# Date range: "yyyy-mm-dd"
-start_date = "2025-1-1"
-end_date = "2025-2-1"
+# Wavelengths of interest
+# Single wavelength:
+# wavelength = 532
+
+# multiple wavelenghs:
+wavelength = [470,532,630]
 
 # with outputs - returns xarray and output_path
 ri_xarr,op = cop_ref_idx(start_date, end_date, aoi, wavelength, 
